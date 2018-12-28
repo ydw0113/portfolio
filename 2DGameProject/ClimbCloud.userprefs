@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\basic2.cs">
+    <Files>
+      <File FileName="Assets\basic2.cs" Line="41" Column="1" />
+      <File FileName="Assets\basic3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Arrowexplo.cs" Line="1" Column="1" />
+      <File FileName="Assets\A2.cs" Line="1" Column="1" />
+      <File FileName="Assets\nalaControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArrowAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\MylaControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArrowController.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets\CloudControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArrowGenerate.cs" Line="1" Column="1" />
+      <File FileName="Assets\explo.cs" Line="1" Column="1" />
+      <File FileName="Assets\basic1.cs" Line="1" Column="1" />
+      <File FileName="Assets\exploControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\bc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cl.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyC2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Bignala.cs" Line="1" Column="1" />
+      <File FileName="Assets\basic4.cs" Line="1" Column="1" />
+      <File FileName="Assets\A3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Myla2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

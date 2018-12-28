@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CharacterStatus.cs">
+    <Files>
+      <File FileName="Assets\Prefab\Health.cs" Line="24" Column="44" NotebookId="1" />
+      <File FileName="Assets\Scripts\EnemyCtrl.cs" Line="173" Column="50" NotebookId="1" />
+      <File FileName="Assets\3D Assets\BeamAttack.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\3D Assets\Portal4.cs" Line="14" Column="3" NotebookId="1" />
+      <File FileName="Assets\Scripts\PlayerCtrl.cs" Line="124" Column="13" NotebookId="1" />
+      <File FileName="Assets\Scripts\EnemyGeneratorCtrl.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\HitArea.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\AttackAreaActivator.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\3D Assets\HP.cs" Line="18" Column="53" NotebookId="1" />
+      <File FileName="Assets\Scripts\AttackArea.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\CharacterStatus.cs" Line="61" Column="22" NotebookId="1" />
+      <File FileName="Assets\3D Assets\Portal.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="..\ClimbCloud\Assets\basic2.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\CharacterMove.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\GameRuleCtrl.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Simple Health Bar\Editor\Resources\GameStart.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\GameStart.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="-32000" Y="-32000" Width="1082" Height="791">
+        <Files>
+          <File FileName="Assets\3D Assets\Cylinder.cs" Line="38" Column="79" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
