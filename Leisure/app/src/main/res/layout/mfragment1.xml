@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+
+        android:layout_marginTop="30dp"
+        >
+
+        <TableLayout
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="411dp"
+            android:stretchColumns="*">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="#CCCCCC"
+                    android:gravity="center"
+                    android:text="프로그램명"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="#CCCCCC"
+                    android:gravity="center"
+                    android:text="요일/시간"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="#CCCCCC"
+                    android:gravity="center"
+                    android:text="대상"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="#CCCCCC"
+                    android:gravity="center"
+                    android:text="이용료"
+                    android:textSize="24sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="개별수중재활"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월~금\n9:00~13:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="36개월이상"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="55,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="성인수중재활"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월수금\n13:00~13:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="지체,뇌병변장애인"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="120,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="관절질환재활"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월~토\n15:00~14:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="관절질환자(성인)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="100,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="아동수중\n운동A/B"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="화/목\n 15:00~15:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="장애유아\n(6~7세)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="80,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="아동수중\n운동C/D"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="화/목\n 16:00~16:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="장애초등학생\n(1~3학년)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="80,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="아동수중\n운동E"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="목\n17:00~17:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="지체, 뇌병변\n 장애인(초등)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="80,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="모자수중\n운동A/B"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월/수\n15:00~15:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="만 36개월이상\n(보호자 동반시 가능)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="28,500"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="개별심리운동	"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월~금\n09:00~15:50	"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="장애 아동 및\n 심리운동적 \n접근이 필요한 아동"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="회45,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="수중심리\n운동A/B/C"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="월/수/금\n15:00~15:50"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="심리운동적 \n접근이 필요한\n 아동(6세 이상)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_height="match_parent"
+                    android:background="@drawable/back"
+                    android:gravity="center"
+                    android:text="80,000"
+                    android:textSize="16sp" />
+            </TableRow>
+
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

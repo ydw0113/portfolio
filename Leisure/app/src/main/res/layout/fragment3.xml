@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="30dp">
+
+    <TableLayout
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="411dp"
+        android:stretchColumns="*">
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="#CCCCCC"
+                android:gravity="center"
+                android:text="프로그램명"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="#CCCCCC"
+                android:gravity="center"
+                android:text="요일/시간"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="#CCCCCC"
+                android:gravity="center"
+                android:text="대상"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="#CCCCCC"
+                android:gravity="center"
+                android:text="이용료"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리토요헬스"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="토\n09:00~17:30"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="5,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리토요\n헬스1(보호자)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="토\n09:00~17:30"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="5,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스A"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~토\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="28,500"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스\nA1(보호자)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~토\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="보호자"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="28,500"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스A5"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n06:20~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="27,500"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스\nA5-1(보호자)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="27,500"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스B"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월수금\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="20,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스\nB1(보호자)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="토\n16:20~17:30"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="보호자"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="20,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스C"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="화목토\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="20,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="곰두리헬스C1(보호자)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="화목토\n06:00~22:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="청소년~성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="20,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="재활헬스"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n10:00~12:00"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="성인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="33,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="펄스널트레이님A\n10회"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n11:00~20:00"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="장애인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="230,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="펄스널트레이닝A\n20회"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n11:20~20:00"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="장애인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="450,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="펄스널트레이닝C\n(2:1 10회)"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="월~금\n06:00~23:20"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="장애인"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_height="match_parent"
+                android:background="@drawable/back"
+                android:gravity="center"
+                android:text="400,000"
+                android:textSize="16sp" />
+        </TableRow>
+
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>
